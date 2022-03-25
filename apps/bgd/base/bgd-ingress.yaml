@@ -4,7 +4,7 @@ metadata:
   name: bgd
 spec:
   rules:
-    - host: bgd.devnation
+    - host: bgd.gitops.iplanet.site
       http:
         paths:
           - path: /
